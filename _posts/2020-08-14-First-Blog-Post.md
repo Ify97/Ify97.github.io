@@ -3,7 +3,7 @@ layout: post
 title: Blog Post 1
 ---
 
-  Being a Data Scientist is about analyzing large amounts of data for actionable insights. It deals with extracting strucured, unstructured, and messy data, as well as cleaning and transforming data inorder to identify patterns and trends. 
+  Being a Data Scientist is about analyzing large amounts of data for actionable insights. It deals with extracting structured, unstructured, and messy data, as well as cleaning and transforming data inorder to identify patterns and trends. 
   
   A Data Scientist spends majority of their time cleaning data. Their main duties entails; extracting and transforming data, exploring and visualizing the data for analysis.
   
