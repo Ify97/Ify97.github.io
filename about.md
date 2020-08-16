@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+My name is Ifeoma Ojialor. I am full-time student in the Master's in Statistics program at North Carolina State University. I work full-time as a Statistical Consultant for Analyx Consulting. I hope to obtain a PhD in Statistics to further my career interests. My hobbies include; weightlifting, watching movies, and travel.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have a Bachelors degree in Mathematics from the University of Maryland, Baltimore County.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[isojialo@ncsu.edu](mailto:isojialo@ncsu.edu)
