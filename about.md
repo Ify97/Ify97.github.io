@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 My name is Ifeoma Ojialor. I am full-time student in the Master's in Statistics program at North Carolina State University. I work full-time as a Statistical Consultant for Analyx Consulting. I hope to obtain a PhD in Statistics to further my career interests. My hobbies include; weightlifting, watching movies, and travel.
